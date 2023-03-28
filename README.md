@@ -1,5 +1,5 @@
 # Devops-Notes
-## Handwritten Notes by VAMSHI KRISHNNA , includes topics like 
+## Handwritten Notes by KALUVALA VAMSHI , includes topics like 
 ### Linux
 ### git
 ### maven
