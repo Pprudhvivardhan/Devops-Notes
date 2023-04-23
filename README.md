@@ -1,5 +1,5 @@
 # Devops-Notes
-## Handwritten Notes by KALUVALA VAMSHI , includes topics like 
+### Handwritten Notes by KALUVALA VAMSHI , includes topics like 
 ### Linux
 ### git
 ### maven
@@ -15,4 +15,4 @@
 ### graphana
 ### Promentheus
 ### Wavescope
-### AWS 
+### AWS  
