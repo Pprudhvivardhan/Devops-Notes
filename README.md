@@ -2,7 +2,7 @@
 ### Handwritten Notes by KALUVALA VAMSHI , includes topics like 
 ### Linux
 ### git
-### maven
+### maven 
 ### soarqube
 ### jenkins
 ### tomcat
@@ -15,4 +15,4 @@
 ### graphana
 ### Promentheus
 ### Wavescope
-### AWS  
+### AWS ( Amazon Web services)
